@@ -1,0 +1,35 @@
+
+
+.myArticle{
+    width:100%;
+    display: flex;
+}
+
+.list-link{
+    display:flex;
+    justify-content: space-between;
+}
+
+.col1-div{
+    margin:10px;
+    width:20%;
+}
+
+.col2-div{
+    width:80%;
+    margin:10px;
+    
+ 
+}
+
+
+.list-event{
+    display:flex;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-icons{
+    display:flex;
+    justify-content: space-around;    
+}
